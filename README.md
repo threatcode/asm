@@ -11,10 +11,6 @@ Attack Surface Mapper (ASM) is a reconnaissance tool that uses a mixture of open
 
 Once the target list is fully expanded it performs passive reconnaissance on them, taking screenshots of websites, generating visual maps, looking up credentials in public breaches, passive port scanning with Shodan/Censys and scraping employees from LinkedIn.
 
-## Demo
-
-[![Demo](https://img.youtube.com/vi/buIQSf_gmdE/0.jpg)](https://www.youtube.com/watch?v=buIQSf_gmdE)
-
 ## Setup
 
 As this is a Python based tool, it should theoretically run on Linux, ChromeOS ([Developer Mode](https://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices/generic)), macOS and Windows.
