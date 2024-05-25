@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 #   Filename: subhunter.py
 #   Module: SubHunter
+#   Author: Threat Code (@threatcode)
 
 # Standard Libraries
 import time

@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 #   Filename: whois_collector.py
 #   Module: Whois Collector
+#   Author: Threat Code (@threatcode)
 
 # External Libraries
 from ipwhois import IPWhois

@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 #   Filename: urlscanio.py
 #   Module: URLScanIO Module
+#   Author: Threat Code (@threatcode)
 
 # Standard Libraries
 import json

@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 #   Filename: weleakinfo.py
 #   Module: WeLeakInfo Module
+#   Author: Threat Code (@threatcode)
 
 # Standard Libraries
 import json

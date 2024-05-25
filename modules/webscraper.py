@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 #   Filename: webscraper.py
 #   Module: webscraper
+#   Author: Threat Code (@threatcode)
 
 # Standard Libraries
 import re
